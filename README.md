@@ -9,6 +9,11 @@ ________________________________________________________________________________
 ## Background:
 ______________________________________________________________________________________________________________________________
 
-This Repository contains workbook for the CityBikeTrips Dashboard. 
+This Repository contains workbook file for the CityBikeTrips Dashboard. 
 Data visualization is done using Tableau Public Software. 
+
+
+## Author
+______________________________________________________________________________________________________________________________
+Tarun Sunkara | [LinkedIn](https://www.linkedin.com/in/tarunkumar-sunkara/)
 
